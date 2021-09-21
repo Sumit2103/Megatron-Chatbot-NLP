@@ -2,8 +2,9 @@
 
 Business need:
 
-In every domain customer care support is too much hurdle for the representatives. They need to support to their customers for the same queries many times or repetitively. To solve these issues there is a need for some kind of automation to reduce these repetitive tasks for the support team so that automate software should able to answer those queries within seconds of time and can more focus to solve complex issues.
-To meet the ever-increasing competition and demands, iNeuron endeavours to deliver an accessible automate software for customer support as well as in sales & market domain.
+In every domain customer care support is a hurdle for the representatives. They need to support their customers for the same queries repetitively. To solve these issues there is a need for some kind of automation to reduce these repetitive tasks for the support team so that automated software should able to answer those queries within seconds and  more focus cab be provided to solve complex issues.
+
+To meet the ever-increasing competition and demands, we endeavour to deliver an accessible automate software for customer support as well as in sales & marketing domain.
 
 Business Flow Diagram:
 
